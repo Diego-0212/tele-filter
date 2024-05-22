@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://garnetoffshore.com.br/pt-br/wp-content/uploads/2023/01/imagemdestacada300ht-1170x500.jpg",
+        "title": "300 HT",
+        "price": 2024
+    },
+    {
+        "id": 2,
+        "image": "https://garnetoffshore.com.br/pt-br/wp-content/uploads/2023/01/imagemdestacada300htfly-1170x500.jpg",
+        "title": "300 HT FLY ",
+        "description": 2024
+    },
+    {
+        "id": 3,
+        "image": "https://garnetoffshore.com.br/pt-br/wp-content/uploads/2023/01/imagemdestacada270dc-1170x500.jpg",
+        "title": "270 DC",
+        "price": 2024
+    },
+    {
+        "id": 4,
+        "image": "https://garnetoffshore.com.br/pt-br/wp-content/uploads/2023/01/imagemdestacada250cc-1170x500.jpg",
+        "title": "250 cc",
+        "price": 2024
+    },
+    {
+        "id": 5,
+        "image": "https://naveguetemporada.com/wp-content/uploads/2023/12/Traineira-39-Oceano-Barco-Lancha-Paraty-8.jpg",
+        "title": " Traineira",
+        "description": 2024
+    }
+]
